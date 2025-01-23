@@ -1,1 +1,0 @@
-Speaking truth to power
