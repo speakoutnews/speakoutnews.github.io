@@ -35,7 +35,7 @@ plugins:
 minima:
   social_links:
     - platform: bluesky
-      user_url: "https://bluesky.com/speakoutnews"
+      user_url: "https://bsky.social/profile/speakout"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
