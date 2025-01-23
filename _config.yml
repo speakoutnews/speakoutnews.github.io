@@ -35,6 +35,7 @@ plugins:
   - jekyll-feed
 
 minima:
+  skin: auto
   social_links:
     - platform: bluesky
       user_url: "https://bsky.app/profile/speakoutnews.bsky.social"
