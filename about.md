@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Faced with the ever rising presence of oligarchy, fascism, classism, racism, sexism, queerphobia, xenophobia, and a whole lot more, a baby boomer lawyer/political activist and millennial scientist have decided to dab their pens in ink as dark as ages past, and yet somehow still present, to speak truth to power.  Jekyll, Esq, the tempered liberal, and Mx Hyde, the radical leftist, are not afraid to call out injustice and the politicians who promote it.
+Faced with the ever rising presence of oligarchy, fascism, classism, racism, sexism, queerphobia, xenophobia, and a whole lot more, a baby boomer lawyer/political activist and a millennial scientist have decided to dab their pens in ink as dark as ages past, and yet somehow still present, to speak truth to power.  Jekyll Esq, the tempered liberal, and Mx Hyde, the radical leftist, are not afraid to call out injustice and the politicians who promote it.
 
 _Speak Out_ is dedicated to shining a light on all the ways Trump, Republicans, MAGA, conservatives, reactionaries, and white supremacists are harming our siblings and comrades, the vulnerable and the disempowered, and even themselves, as they rush towards a fascist America.  In our thoughtful, well-researched articles, we will expose the harms and deeply flawed motivations behind these terrible ideologies, while also presenting our ideas for a truly just and fair society.
 
