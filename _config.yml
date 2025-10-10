@@ -33,12 +33,10 @@ url: "https://www.speakoutnews.com" # the base hostname & protocol for your site
 google_analytics: G-RRJ715Q2ZP
 
 # Build settings
-#theme: minima
-remote_theme: jekyll/minima
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-favicon
-  - jekyll-remote-theme
 
 minima:
   skin: auto
