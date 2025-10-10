@@ -30,11 +30,15 @@ url: "https://www.speakoutnews.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
+google_analytics: G-RRJ715Q2ZP
+
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
   - jekyll-favicon
+  - jekyll-remote-theme
 
 minima:
   skin: auto
