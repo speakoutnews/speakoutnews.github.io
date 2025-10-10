@@ -40,9 +40,10 @@ plugins:
 
 minima:
   skin: auto
+  hide_site_feed_link: true
   social_links:
-    - platform: bluesky
-      user_url: "https://bsky.app/profile/speakoutnews.bsky.social"
+    - icon: bluesky
+      url: "https://bsky.app/profile/speakoutnews.bsky.social"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
