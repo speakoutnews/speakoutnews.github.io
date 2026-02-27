@@ -1,0 +1,17 @@
+name: speakout
+
+services:
+  builder:
+    build: .
+    restart: "no"
+    volumes:
+      - .:/srv/jekyll
+  
+  server:
+    build: .
+    restart: "no"
+    command: jekyll serve
+    volumes:
+      - .:/srv/jekyll
+    ports:
+      - "4000:4000"
